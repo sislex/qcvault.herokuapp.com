@@ -1,0 +1,17 @@
+{
+    "name": "qcvault.herokuapp.com",
+    "version": "1.0.0",
+    "description": "test qcvault.herokuapp.com",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "jest --detectOpenHandles"
+    },
+    "author": "Alex Rozhnov",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^24.0.17",
+        "jest": "^24.8.0",
+        "xmlhttprequest": "^1.8.0"
+    }
+}
